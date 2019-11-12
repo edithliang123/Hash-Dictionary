@@ -1,0 +1,9 @@
+Name: Yixin Liang
+Assignment: pa5
+Files:
+Dictionary.c
+DictionaryClient.c
+Dictionary.h
+DictionaryTest.c
+README
+Makefile
